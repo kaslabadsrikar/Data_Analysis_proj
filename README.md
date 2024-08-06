@@ -1,5 +1,7 @@
 Wrote SQL Queries using a real dataset downloaded from the Kaggle. We shall download Olympics dataset from Kaggle and then write SQL Queries to fetch different information from this Olympics data.
+
 This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. scraped data from www.sports-reference.com in May 2018.
+
 The file athlete_events.csv contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events). The columns are:
 ID - Unique number for each athlete
 Name - Athlete's name
