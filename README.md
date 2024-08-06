@@ -1,4 +1,4 @@
-Wrote SQL Queries using a real dataset downloaded from the Kaggle. We shall download Olympics dataset from Kaggle and then write SQL Queries to fetch different information from this Olympics data.
+Wrote SQL Queries using a 120 years of Olympic history: athletes and results real dataset downloaded from the Kaggle. We shall download Olympics dataset from Kaggle and then write SQL Queries to fetch different information from this Olympics data.
 
 This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. scraped data from www.sports-reference.com in May 2018.
 
